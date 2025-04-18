@@ -24,10 +24,10 @@ This initiative brings together developers, designers, activists, and global cit
 > Make your code speak for justice. Add a voice to your GitHub.
 
 You can pick a pre-built template from our repos:
-- [`readme-for-palestine`](https://github.com/standforhumanity/readme-for-palestine)
-- `readme-for-sudan` (coming soon)
-- `readme-for-kashmir` (coming soon)
-- `readme-for-yemen` (coming soon)
+- [`stand-with-palestine`](https://github.com/standforhumanity/stand-with-palestine)
+- `stand-with-sudan` (coming soon)
+- `stand-with-kashmir` (coming soon)
+- `stand-with-yemen` (coming soon)
 
 Or create your own and tag it with `#StandForHumanity`.
 
