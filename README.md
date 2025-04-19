@@ -94,8 +94,6 @@ Let your GitHub profile and projects stand for something **bigger than code**.
 ## 🤝 Join Us
 
 - 🌐 GitHub: [github.com/standforhumanity](https://github.com/standforhumanity)
-- 💬 Telegram: [t.me/standforhumanitychannel](#)
-- 📩 Gmail: `standforhumanity.global@gmail.com`
 - 🖤 Follow the hashtag: `#StandForHumanity`
 
 > **📣 Speak up. Code up. Show up. For humanity.**
