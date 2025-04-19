@@ -1,4 +1,4 @@
-[![Stand With Palestine](https://github.com/zubair-shah/stand-with-palestine/blob/main/Banners/Banner1.svg)](https://stand-with-palestine.vercel.app)
+[![Stand With Palestine](https://github.com/standforhumanity/stand-with-palestine/blob/main/Banners/Banner1.svg)](https://stand-with-palestine.vercel.app)
 
 # 🌍 Stand For Humanity
 
